@@ -4,7 +4,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=kunaaaaalll&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/kunaaaaalll-black?style=flat&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/kunal-arora-2a10771a5/)](https://linkedin.com/in/kunal-arora-2a10771a5/)
 [![Twitter](https://img.shields.io/badge/kunaaaaalll-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/kunaaaaaalll)](https://twitter.com/kunaaaaaalll)
-[![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/kunaaaaalll/)
+[![Instagram](https://img.shields.io/badge/kunaaaaalll-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/kunaaaaalll/)
 
 <br>
 

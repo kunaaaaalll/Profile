@@ -34,3 +34,6 @@
 [![My Stats](https://github-readme-stats.vercel.app/api?username=kunalthedev&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/kunalthedev?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalthedev&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/kunalthedev?tab=repositories)
 <!-- - 🤔 I’m looking for help with  -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunalthedev&theme=prussian)](https://git.io/streak-stats)
+

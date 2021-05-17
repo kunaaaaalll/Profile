@@ -35,7 +35,7 @@ Skills = ["Familiar with Linux" , "Web development" , "Web designing" , "MS offi
 
 ## Achievements
 
-<a href="https://github.com/sanchitbajaj02">
+<a href="https://github.com/kunalthedev">
   <img width="1000" src="https://github-profile-trophy.vercel.app/?username=kunalthedev&row=1&column=7&margin-w=5&no-frame=true"/>
 </a>
 <br/>

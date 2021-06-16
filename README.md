@@ -1,3 +1,6 @@
+<p align="center">
+<a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
+</p>
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
@@ -5,7 +8,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=kunalthedev&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/kunalthedev-black?style=flat&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/kunal-arora-2a10771a5/)](https://linkedin.com/in/kunal-arora-2a10771a5/)
 [![Twitter](https://img.shields.io/badge/kunalthedev-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/kunalthedev)](https://twitter.com/kunaaaaaalll)
-[![Instagram](https://img.shields.io/badge/kunalthedev-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/kunaaaaalll/)
 
 
 ```python
